@@ -1,0 +1,36 @@
+{
+    "sources": [
+        {
+            "source": "abs",
+            "url_root": "http://www.abs.gov.au",
+            "url_prefix": "http://www.abs.gov.au/AUSSTATS/abs@.nsf",
+            "url_updates": "/websitedbs/D3310114.nsf/home/What's+New",
+            "url_series": "/second+level+view+?ReadForm&prodno=5601.0&viewtitle=~NA~~&&tabname=Past%20Future%20Issues&prodno=5601.0&issue=&num=&view&",
+            "series": "5601"
+        },
+        {
+            "source": "abs",
+            "url_root": "http://www.abs.gov.au",
+            "url_prefix": "http://www.abs.gov.au/AUSSTATS/abs@.nsf",
+            "url_updates": "/websitedbs/D3310114.nsf/home/What's+New",
+            "url_series": "/second+level+view+?ReadForm&prodno=5206.0&viewtitle=~NA~~&&tabname=Past%20Future%20Issues&prodno=5206.0&issue=&num=&view&",
+            "series": "5206"
+        },
+        {
+            "source": "rba",
+            "url_root": "http://www.rba.gov.au",
+            "url_prefix": "http://www.rba.gov.au",
+            "url_updates": "/statistics/tables/changes-to-tables.html",
+            "url_series": "/statistics/tables/",
+            "series": "all"
+        },
+        {
+            "source": "apra",
+            "url_root": "http://www.apra.gov.au",
+            "url_prefix": "http://www.apra.gov.au",
+            "url_updates": "/publications",
+            "url_series": "/statistics",
+            "series": "all"
+        }
+    ]
+}
